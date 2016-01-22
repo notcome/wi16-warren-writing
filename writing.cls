@@ -9,7 +9,7 @@
 \doublespacing
 
 \author{Minsheng Liu}
-\def \instructor{Gocsik, Karen M.}
+\def \instructor{Marissa Perino}
 
 \makeatletter
 \def\@maketitle {%
