@@ -23,3 +23,10 @@
   \vskip 2em
 }
 \makeatother
+
+\newenvironment{references}
+  {\subsection*{References}\label{references}
+   \singlespacing\small
+   \begin{enumerate}
+  }
+  {\end{enumerate}}
